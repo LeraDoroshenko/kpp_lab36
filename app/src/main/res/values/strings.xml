@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab36</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="string1">Invitation</string>
+    <string name="string2">Well</string>
+</resources>
